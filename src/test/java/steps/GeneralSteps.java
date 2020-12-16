@@ -15,9 +15,12 @@ public class GeneralSteps {
         Assert.assertEquals(value, RESTSupport.key(field));
     }
 
+
+    @Entao ("o usuário deveria ver a mensagem \"([^\"]*)\"")
     @Then("^user should see \"([^\"]*)\" message$")
     public void userShouldSeeMessage(String type) throws Throwable {
         LazyMap messageJson = new LazyMap();
+        messageJson.put("salvo com sucesso", 201);
         messageJson.put("save with success", 201);
         messageJson.put("success", 200);
         messageJson.put("no content", 204);
