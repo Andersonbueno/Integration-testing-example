@@ -24,8 +24,4 @@ public class UsuarioSteps {
 
     }
 
-    @io.cucumber.java.pt.Então("^o usuário deveria ver a mensagem \"([^\"]*)\"$")
-    public void oUsuarioDeveriaVerAMersagem(String mensagem) throws Throwable {
-        Assert.assertEquals(mensagem, RESTSupport.key());
-    }
 }

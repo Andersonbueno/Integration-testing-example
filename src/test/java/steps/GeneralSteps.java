@@ -23,6 +23,7 @@ public class GeneralSteps {
         messageJson.put("salvo com sucesso", 201);
         messageJson.put("save with success", 201);
         messageJson.put("success", 200);
+        messageJson.put("sucesso", 200);
         messageJson.put("no content", 204);
         messageJson.put("not found", 404);
         messageJson.put("unauthorized", 401);

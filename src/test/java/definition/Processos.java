@@ -7,6 +7,7 @@ public class Processos {
     private static final String URL_processos = "http://agapito-server.herokuapp.com/processos/";
     private static LazyMap camposJson = new LazyMap();
     private static String UltimoUsuario;
+    private static String id;
 
     public static void preencherCampo(String field, String value) {
         camposJson.put(field, value);
@@ -23,11 +24,11 @@ public class Processos {
         return URL_processos;
     }
 
-    public static String obterUltimoUsuario() {
-        return UltimoUsuario;
+    public static void setId(String pId) {
+        id = pId;
     }
 
-    public static void definirUltimoUsario(String lastUser) {
-        Usuario.UltimoUsuario = UltimoUsuario;
+    public static String getId(){
+        return id;
     }
 }
