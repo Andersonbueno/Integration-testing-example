@@ -26,6 +26,7 @@ public class GeneralSteps {
         messageJson.put("sucesso", 200);
         messageJson.put("no content", 204);
         messageJson.put("not found", 404);
+        messageJson.put("nao encontrado", 404);
         messageJson.put("unauthorized", 401);
 
         Assert.assertEquals(messageJson.get(type),RESTSupport.getResponseCode());
