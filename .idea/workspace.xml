@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e17c3548-5d21-4f8b-943c-bd1f97d662ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/GeneralSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/GeneralSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/user/crudProcessos.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/user/crudProcessos.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lf9hgeKsRAJ9hAiYneBTE8fU9l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Inserir um novo processo - POST">
+    <configuration name="Scenario: Criação de novo usuário - POST" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/user/crudUsuario.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="integration-testing" />
+      <option name="NAME_FILTER" value="^Criação de novo usuário \- POST$" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Criação de novo usuário \- POST$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Criação de novo usuário - POST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Inserir um novo processo - POST" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/user/crudProcessos.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="integration-testing" />
+      <option name="NAME_FILTER" value="^Inserir um novo processo \- POST$" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Inserir um novo processo \- POST$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Inserir um novo processo - POST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Inserir um novo processo - POST" />
+        <item itemvalue="Cucumber java.Scenario: Criação de novo usuário - POST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e17c3548-5d21-4f8b-943c-bd1f97d662ab" name="Default Changelist" comment="" />
+      <created>1607977398858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607977398858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Custom_Plugin_Repositories" timestamp="1608136534793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1608136534793" />
+    <state x="361" y="70" key="#Inspections" timestamp="1608068794462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1608068794462" />
+    <state x="361" y="70" key="#Plugins" timestamp="1608136872955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1608136872955" />
+    <state x="499" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608142237115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608142237115" />
+    <state x="566" y="271" width="403" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608066946104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="271" width="403" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1608066946104" />
+    <state x="572" y="136" key="FileChooserDialogImpl" timestamp="1608152925621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="572" y="136" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608152925621" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1608151358898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1608151358898" />
+    <state x="301" y="0" key="SettingsEditor" timestamp="1608068868503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="301" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608068868503" />
+    <state x="521" y="333" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1608152927722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="333" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1608152927722" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608136853622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608136853622" />
+  </component>
+</project>
